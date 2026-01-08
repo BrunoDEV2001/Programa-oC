@@ -1,0 +1,18 @@
+#include <stdio.h> 
+int main ()[
+    int idade = 24;
+    float altura = 1.74;
+    double saldobancario = 1200;
+    char incial = B;
+    char nome = bruno;
+    
+    printf("idade: %d anos\n");
+    printf("altura: %2.f metros\n, altura");
+    printf("saldobancario: %f reais\n, saldobancario");
+    printf("inicial do nome: %c\n, inicial");
+    printf("nome: bruno: %s\n, nome");
+
+    return 0;
+
+
+]
